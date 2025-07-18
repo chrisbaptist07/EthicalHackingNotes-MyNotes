@@ -2,8 +2,8 @@
 
 ## 📚 Course Overview
 **Date:** 15/07/2025  
-**Duration:** Day 1 of Ethical Hacking Journey  
-**Focus:** Fundamentals and Legal Framework
+**Duration:** 2 hours 
+**Focus:** Introduction the Cyber Security
 
 ---
 
