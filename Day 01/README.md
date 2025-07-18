@@ -1,9 +1,9 @@
-# EthicalHackingNotes-MyNotes - Day 01
+# Ethical Hacking - Day 01 Notes
 
 ## 📚 Course Overview
-**Date:** 15/07/2025  
-**Duration:** 2 hours 
-**Focus:** Introduction the Cyber Security
+**Date:** 15/07/2025 
+**Duration:** 2 hours  
+**Focus:** Introduction To Cyber Security
 
 ---
 
@@ -195,6 +195,20 @@ By the end of Day 1, you should understand:
 **Privilege Escalation**: Gaining higher-level access than initially obtained  
 **Footprinting**: Gathering information about target systems  
 **Enumeration**: Extracting detailed information about identified services  
+
+---
+
+## 🔤 Important Acronyms and Full Forms
+
+**VAPT**: Vulnerability Assessment and Penetration Testing  
+**IPS**: Intrusion Prevention System  
+**IDS**: Intrusion Detection System  
+**POC**: Proof of Concept  
+**SOC**: Security Operations Center  
+**SIEM**: Security Information and Event Management  
+**SAAS**: Software as a Service  
+**SSL**: Secure Sockets Layer  
+**TLS**: Transport Layer Security  
 
 ---
 
