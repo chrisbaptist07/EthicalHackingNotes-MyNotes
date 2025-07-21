@@ -1,3 +1,10 @@
+# Ethical Hacking - Day 02 Notes
+
+## 📚 Course Overview
+**Date:** 18/07/2025 
+**Duration:** 2 hours  
+**Focus:** Booting Kali Linux
+
 # VirtualBox Kali Linux Setup Guide
 
 This guide provides step-by-step instructions for downloading VirtualBox and setting up Kali Linux in a virtual machine environment.
