@@ -1,6 +1,8 @@
-# Day 3 - Ethical Hacking Notes
+Ethical Hacking - Day 02 Notes
+📚 Course Overview
+Date: 22/07/2025 Duration: 2 hours
+Focus: Basic Kali Commands
 
-## Overview
 This repository contains notes from Day 3 of ethical hacking training, covering fundamental Kali Linux commands and an introduction to Windows 11 penetration testing techniques.
 
 ## Topics Covered
