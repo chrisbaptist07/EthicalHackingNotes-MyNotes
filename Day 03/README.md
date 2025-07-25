@@ -32,6 +32,9 @@ Essential commands for navigating and managing files in Kali Linux:
 | `chmod` | `chmod 755 script.sh` | Changes file permissions |
 | `chown` | `chown user:user file.txt` | Changes file ownership |
 
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/0980df85-40c4-4749-b504-6d08627416ae" />
+
+
 ### 2. Windows 11 Hacking with Villain
 
 **Status: In Progress** 🚧
