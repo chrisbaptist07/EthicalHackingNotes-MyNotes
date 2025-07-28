@@ -1,8 +1,8 @@
 # Ethical Hacking - Day 4 Notes
 
 ## 📚 Course Overview
-**Date:** [Insert Date]  
-**Duration:** Day 4 of Ethical Hacking Journey  
+**Date:** 25/07/2025
+**Duration:** 2hours 
 **Focus:** Network Protocols, Nmap, and Reconnaissance Techniques
 
 ---
